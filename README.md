@@ -76,5 +76,6 @@ SELECT * FROM sal_log;
 ![image](https://github.com/Safeeq-Fazil/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/118680361/e27dcca0-7fe0-4e0d-9660-eabf2da9cfac)
 
 
-Result:
+### Result:
+
 The program has been implemented successfully.
